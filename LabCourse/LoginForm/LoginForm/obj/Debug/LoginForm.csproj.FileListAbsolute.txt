@@ -1,0 +1,15 @@
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.Dashboardcs.resources
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\bin\Debug\DATABAZA.mdf
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\bin\Debug\DATABAZA_log.ldf
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.Administration.resources
+C:\Users\belin\OneDrive\Desktop\LabCourse\LoginForm\LoginForm\obj\Debug\LoginForm.examdetails.resources
